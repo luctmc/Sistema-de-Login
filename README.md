@@ -6,4 +6,4 @@
 ███████╗╚█████╔╝╚██████╔╝██║██║░╚███║██╗╚█████╔╝██████╔╝
 ╚══════╝░╚════╝░░╚═════╝░╚═╝╚═╝░░╚══╝╚═╝░╚════╝░╚═════╝░
 
-Aprimorar Sistema para integrar em outras aplicções;
+Aprimorar Sistema para integrar em outras aplicações;
