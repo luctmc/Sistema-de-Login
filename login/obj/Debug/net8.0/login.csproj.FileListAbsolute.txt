@@ -1,0 +1,14 @@
+C:\Users\lmcastro\Documents\Programação\login\bin\Debug\net8.0\login.exe
+C:\Users\lmcastro\Documents\Programação\login\bin\Debug\net8.0\login.deps.json
+C:\Users\lmcastro\Documents\Programação\login\bin\Debug\net8.0\login.runtimeconfig.json
+C:\Users\lmcastro\Documents\Programação\login\bin\Debug\net8.0\login.dll
+C:\Users\lmcastro\Documents\Programação\login\bin\Debug\net8.0\login.pdb
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.AssemblyInfoInputs.cache
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.AssemblyInfo.cs
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.csproj.CoreCompileInputs.cache
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.dll
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\refint\login.dll
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.pdb
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\login.genruntimeconfig.cache
+C:\Users\lmcastro\Documents\Programação\login\obj\Debug\net8.0\ref\login.dll
